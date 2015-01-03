@@ -1,6 +1,6 @@
 PlateAnalyzer
 =============
-
+![alt tag](https://github.com/orealeb/PlateAnalyzer/food.jpg)
 
 Initial results from PlateAnalyzer prototype. Used in finding nutrients in food. 
 
