@@ -5,6 +5,7 @@ PlateAnalyzer
 Initial results from PlateAnalyzer prototype. Used in finding nutrients in food. 
 
 
-Input: Image of food / Size
+Input: Image of food and quantity/size
 
 Output: Calories and other relevant nutrient information
+
